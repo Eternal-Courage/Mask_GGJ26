@@ -50,10 +50,6 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/**/Binaries/*
 
-# Don't ignore Wwise .dll and .lib files as these are needed for compiling
-!Plugins/Wwise/*.dll
-!Plugins/Wwise/*.lib
-
 # Builds
 Build/*
 
