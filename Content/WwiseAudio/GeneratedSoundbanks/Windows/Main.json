@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{ECFA8ADF-B3B7-4213-8883-3240C81476EF}",
     "Language": "SFX",
-    "Hash": "{A160A9AF-6F15-B6C1-903B-61BD433A37EB}",
+    "Hash": "{D72D9D14-BFAD-9789-B329-904C51183E82}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
@@ -24,12 +24,52 @@
       "CachePath": "08/{08651293-186C-D187-32F3-754414CDFAD3}.wem"
      },
      {
+      "Id": "226884716",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mask_01_sting1.wav",
+      "CachePath": "15/{15540B70-5B68-EE0B-925D-D3767C8CEAB1}.wem"
+     },
+     {
       "Id": "362912490",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 2.wav",
       "CachePath": "8B/{8B0EBB05-0F15-F473-374F-482A528B476D}.wem"
+     },
+     {
+      "Id": "442229226",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mask_03.wav",
+      "CachePath": "AF/{AF004547-363E-B69F-2C64-69F9F507DB4E}.wem"
+     },
+     {
+      "Id": "472955825",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mask_02_102bpm_pre-intro.wav",
+      "CachePath": "93/{9355F0BE-9FB5-1C81-CC2E-67574B6B31FB}.wem"
+     },
+     {
+      "Id": "519435958",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mask_02_102bpm_intro.wav",
+      "CachePath": "8F/{8FC22E6B-5BFA-A24B-8DDB-E53755112201}.wem"
+     },
+     {
+      "Id": "641123485",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mask_02_102bpm_main.wav",
+      "CachePath": "35/{359673B4-C1B9-289E-F99E-1FDFB23E3CE2}.wem"
      },
      {
       "Id": "654332709",
@@ -77,7 +117,15 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Wind, General, Dark, Desert, Wind Valley, Dark, Wind Gusts 01 SND81186.wav",
-      "CachePath": "6C/{6CF5B52B-C6C8-23FC-3252-7D620CE02A6E}.wem"
+      "CachePath": "17/{175817E8-9A83-3C74-D6A8-456E61D036FA}.wem"
+     },
+     {
+      "Id": "1002090833",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mask_02_102bpm_outro.wav",
+      "CachePath": "F4/{F4A1EF6E-7416-A7B2-3A1A-DBE362BDCAA8}.wem"
      }
     ],
     "Plugins": {
@@ -90,6 +138,16 @@
        "LibName": "Wwise Silence",
        "LibId": "6619138"
       }
+     ],
+     "ShareSets": [
+      {
+       "Id": "3216246379",
+       "Name": "Space_Dreaming",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Huge Spaces\\Space_Dreaming",
+       "GUID": "{4FF7C4B2-37B0-4DFF-8E8A-1420102AE2DD}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
      ]
     },
     "Events": [
@@ -99,6 +157,11 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Util\\Game_Start",
       "GUID": "{F6C71230-848E-4CD9-A897-1199F4FE2F5D}",
       "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "226884716"
+       }
+      ],
       "SwitchContainers": [
        {
         "SwitchValue": {
@@ -110,6 +173,9 @@
         "MediaRefs": [
          {
           "Id": "15123436"
+         },
+         {
+          "Id": "226884716"
          }
         ]
        }
@@ -143,7 +209,8 @@
          "GroupType": "State",
          "GroupId": "705466615",
          "Id": "491961918",
-         "GUID": "{ADC9C427-3539-4297-8A75-27D1A37A8380}"
+         "GUID": "{ADC9C427-3539-4297-8A75-27D1A37A8380}",
+         "Default": "true"
         },
         "MediaRefs": [
          {
@@ -156,8 +223,7 @@
          "GroupType": "State",
          "GroupId": "705466615",
          "Id": "2927127661",
-         "GUID": "{67C75341-2428-445D-98D1-D7706A1E88CF}",
-         "Default": "true"
+         "GUID": "{67C75341-2428-445D-98D1-D7706A1E88CF}"
         },
         "MediaRefs": [
          {
@@ -190,27 +256,35 @@
         },
         "MediaRefs": [
          {
-          "Id": "362912490"
-         },
-         {
-          "Id": "689833635"
-         },
-         {
-          "Id": "810183482"
-         },
-         {
-          "Id": "921759739"
+          "Id": "884261639"
          }
-        ],
-        "PluginRefs": {
-         "Custom": [
-          {
-           "Id": "449023794"
-          }
-         ]
-        }
+        ]
        }
       ]
+     },
+     {
+      "Id": "2546257031",
+      "Name": "Play_EndEnc",
+      "ObjectPath": "\\Events\\Default Work Unit\\MUS\\Play_EndEnc",
+      "GUID": "{336E45A4-D92E-435C-A51C-DCFF1AFF9BA7}",
+      "DurationType": "OneShot",
+      "DurationMin": "101.17648",
+      "DurationMax": "101.17648",
+      "MediaRefs": [
+       {
+        "Id": "641123485"
+       },
+       {
+        "Id": "1002090833"
+       }
+      ],
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "3216246379"
+        }
+       ]
+      }
      },
      {
       "Id": "3207452328",
@@ -225,6 +299,44 @@
        },
        {
         "Id": "796760020"
+       }
+      ]
+     },
+     {
+      "Id": "2727155482",
+      "Name": "Play_TreeEnc",
+      "ObjectPath": "\\Events\\Default Work Unit\\MUS\\Play_TreeEnc",
+      "GUID": "{5556AAC2-4298-42EA-8BE7-2BD422A37128}",
+      "DurationType": "OneShot",
+      "DurationMin": "59.25103",
+      "DurationMax": "59.25103",
+      "MediaRefs": [
+       {
+        "Id": "472955825"
+       },
+       {
+        "Id": "519435958"
+       }
+      ],
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "3216246379"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "308000976",
+      "Name": "Play_TunnelEnc",
+      "ObjectPath": "\\Events\\Default Work Unit\\MUS\\Play_TunnelEnc",
+      "GUID": "{3D4A498C-FDB6-49CD-8F03-7AE5B1B7F2F0}",
+      "DurationType": "OneShot",
+      "DurationMin": "36",
+      "DurationMax": "36",
+      "MediaRefs": [
+       {
+        "Id": "442229226"
        }
       ]
      }
@@ -317,6 +429,6 @@
     ]
    }
   ],
-  "FileHash": "{64FCFD82-A6A2-6AB3-4A78-45F99B0B402A}"
+  "FileHash": "{2EEC87BF-5034-6A68-21B1-70131E7BBE87}"
  }
 }

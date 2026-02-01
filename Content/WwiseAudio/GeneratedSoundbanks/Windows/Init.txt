@@ -25,7 +25,7 @@ Audio Bus	ID	Name			Wwise Object Path	Notes
 	1551306167	UI			\Default Work Unit\Master Audio Bus\UI	
 	1621228179	World_SFX			\Default Work Unit\Master Audio Bus\Gameplay\World_SFX	
 	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
-	3991942870	Music			\Default Work Unit\Master Audio Bus\Gameplay\Music	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Music	
 
 Auxiliary Bus	ID	Name			Wwise Object Path	Notes
 	3234461161	GameplayReverb			\Default Work Unit\Master Audio Bus\GameplayReverb	

@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{29AAD447-2E01-36BD-C58A-370A3270D840}",
+    "Hash": "{F7387275-E4D1-7743-6562-95E33C66966E}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
@@ -107,7 +107,7 @@
      {
       "Id": "3991942870",
       "Name": "Music",
-      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Gameplay\\Music",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Music",
       "GUID": "{18ACAC94-6821-49CB-88A9-EA527E93DFD9}"
      }
     ],
@@ -254,6 +254,6 @@
     ]
    }
   ],
-  "FileHash": "{26348B9A-4094-4C5F-C1B1-E44AF1969F2B}"
+  "FileHash": "{6E2070E7-50A8-0974-DEFA-80C2C355F5D6}"
  }
 }
