@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{ECFA8ADF-B3B7-4213-8883-3240C81476EF}",
     "Language": "SFX",
-    "Hash": "{780898B1-BAC4-A8DE-228D-270D899C095E}",
+    "Hash": "{B4C3A912-B01B-96D5-5F02-74E430BB3BB6}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
@@ -30,6 +30,14 @@
       "Location": "Memory",
       "ShortName": "Footsteps, Animal, Small Dog, Paws In Sand SND124661 1.wav",
       "CachePath": "56/{5641F473-647A-7AB3-790D-659959126089}.wem"
+     },
+     {
+      "Id": "173557121",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Electricity, Sparks, Short Complex Sparks, Designed 05 SND83977 1.wav",
+      "CachePath": "CF/{CFD3533C-8A6F-ED4F-37C9-EF45E485BD7A}.wem"
      },
      {
       "Id": "178566216",
@@ -64,6 +72,14 @@
       "CachePath": "64/{6479A2B9-BB85-06C3-297F-6D8F278C5795}.wem"
      },
      {
+      "Id": "299587933",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Electricity, Sparks, Short Complex Sparks, Designed 09 SND83973.wav",
+      "CachePath": "BF/{BFEDD2A7-4858-6E56-CB43-195A7877B0E5}.wem"
+     },
+     {
       "Id": "308356785",
       "Language": "SFX",
       "Streaming": "false",
@@ -78,6 +94,14 @@
       "Location": "Memory",
       "ShortName": "Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 2.wav",
       "CachePath": "8B/{8B0EBB05-0F15-F473-374F-482A528B476D}.wem"
+     },
+     {
+      "Id": "382112602",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Electricity, Sparks, Short Complex Sparks, Designed 03 SND83979.wav",
+      "CachePath": "62/{628684AF-D175-2035-24F9-7504CD156012}.wem"
      },
      {
       "Id": "390020823",
@@ -208,6 +232,14 @@
       "CachePath": "F4/{F4A1EF6E-7416-A7B2-3A1A-DBE362BDCAA8}.wem"
      },
      {
+      "Id": "1003836130",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Electricity, Sparks, Pole Vibration, Micro Boom, Vibration, Crackling Electricity, Mexico 01 SND100429.wav",
+      "CachePath": "94/{94DF0E49-58EB-9897-EF0B-E77279E15353}.wem"
+     },
+     {
       "Id": "1051133147",
       "Language": "SFX",
       "Streaming": "false",
@@ -223,6 +255,14 @@
        "Name": "Silence",
        "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Ambience\\AmbientBed\\Ambience_Canyon\\canyon_sweeteners\\Silence\\Silence",
        "GUID": "{9710AE79-6DD0-407F-A084-E49AA714AFD9}",
+       "LibName": "Wwise Silence",
+       "LibId": "6619138"
+      },
+      {
+       "Id": "998434194",
+       "Name": "Silence",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\World_SFX\\Landmarks\\lm_wire\\lm_wire_seq\\silence\\Silence",
+       "GUID": "{13A03D9E-162A-4254-9B9D-ECD2368D1541}",
        "LibName": "Wwise Silence",
        "LibId": "6619138"
       }
@@ -434,6 +474,35 @@
         "Id": "796760020"
        }
       ]
+     },
+     {
+      "Id": "2822375701",
+      "Name": "Play_lm_wire",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Play_lm_wire",
+      "GUID": "{674E09DC-B896-464C-A8BA-7AF789DE7232}",
+      "MaxAttenuation": "100",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "173557121"
+       },
+       {
+        "Id": "299587933"
+       },
+       {
+        "Id": "382112602"
+       },
+       {
+        "Id": "1003836130"
+       }
+      ],
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "998434194"
+        }
+       ]
+      }
      },
      {
       "Id": "3056656413",
@@ -689,6 +758,6 @@
     ]
    }
   ],
-  "FileHash": "{A9389DED-B7F6-816E-98BD-0D04389489CA}"
+  "FileHash": "{60D1EF87-77F8-3415-A7CC-4B86F063D390}"
  }
 }

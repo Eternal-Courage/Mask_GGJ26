@@ -6,6 +6,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	2134431836	Play_npc_talk			\Default Work Unit\SFX\Play_npc_talk	
 	2546257031	Play_EndEnc			\Default Work Unit\MUS\Play_EndEnc	
 	2727155482	Play_TreeEnc			\Default Work Unit\MUS\Play_TreeEnc	
+	2822375701	Play_lm_wire			\Default Work Unit\SFX\Play_lm_wire	
 	3056656413	Play_mask_ability			\Default Work Unit\SFX\Play_mask_ability	
 	3207452328	Play_lm_waterfall			\Default Work Unit\SFX\Play_lm_waterfall	
 
@@ -43,16 +44,20 @@ Effect plug-ins	ID	Name	Type				Notes
 
 Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
 	449023794	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Canyon\canyon_sweeteners\Silence\Silence	
+	998434194	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\World_SFX\Landmarks\lm_wire\lm_wire_seq\silence\Silence	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	15123436	mask_01_ccpt2	D:\Github\Mask_GGJ26_WwiseProject\.cache\08\{08651293-186C-D187-32F3-754414CDFAD3}.wem		\Interactive Music Hierarchy\Default Work Unit\Game_Music\Menu_Music\mask_01_ccpt2\mask_01_ccpt2		1336484
 	38059963	Footsteps, Animal, Small Dog, Paws In Sand SND124661 1	D:\Github\Mask_GGJ26_WwiseProject\.cache\56\{5641F473-647A-7AB3-790D-659959126089}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Stereo_SFX\Player\footstep\footstep_land\Footsteps, Animal, Small Dog, Paws In Sand SND124661 1		20238
+	173557121	Electricity, Sparks, Short Complex Sparks, Designed 05 SND83977 1	D:\Github\Mask_GGJ26_WwiseProject\.cache\CF\{CFD3533C-8A6F-ED4F-37C9-EF45E485BD7A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\World_SFX\Landmarks\lm_wire\lm_wire_seq\lm_wire_var\Electricity, Sparks, Short Complex Sparks, Designed 05 SND83977 1		81580
 	178566216	Footsteps, Animal, Foley Stage, Small Cat, Walking On Grass And Mud 01 SND73204 2	D:\Github\Mask_GGJ26_WwiseProject\.cache\F2\{F20B5BAA-FDE8-17B2-EB05-1C79DAECFB3A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Stereo_SFX\Player\footstep\footstep_terrain\grass\Footsteps, Animal, Foley Stage, Small Cat, Walking On Grass And Mud 01 SND73204 2		62272
 	226884716	mask_01_sting1	D:\Github\Mask_GGJ26_WwiseProject\.cache\15\{15540B70-5B68-EE0B-925D-D3767C8CEAB1}.wem		\Interactive Music Hierarchy\Default Work Unit\Game_Music\Menu_Music\mask_01_sting1\mask_01_sting1		33582
 	290583222	Footsteps, Animal, Small Dog, Paws In Sand SND124661 2	D:\Github\Mask_GGJ26_WwiseProject\.cache\32\{3297583A-93C3-7A85-FFD2-597ADD646D38}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Stereo_SFX\Player\footstep\footstep_land\Footsteps, Animal, Small Dog, Paws In Sand SND124661 2		27432
 	293036046	Footsteps, Animal, Foley Stage, Small Cat, Walking On Grass And Mud 01 SND73204 1	D:\Github\Mask_GGJ26_WwiseProject\.cache\64\{6479A2B9-BB85-06C3-297F-6D8F278C5795}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Stereo_SFX\Player\footstep\footstep_terrain\grass\Footsteps, Animal, Foley Stage, Small Cat, Walking On Grass And Mud 01 SND73204 1		72636
+	299587933	Electricity, Sparks, Short Complex Sparks, Designed 09 SND83973	D:\Github\Mask_GGJ26_WwiseProject\.cache\BF\{BFEDD2A7-4858-6E56-CB43-195A7877B0E5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\World_SFX\Landmarks\lm_wire\lm_wire_seq\lm_wire_var\Electricity, Sparks, Short Complex Sparks, Designed 09 SND83973		399832
 	308356785	Footsteps, Animal, Foley Stage, Small Cat, Walking On Grass And Mud 01 SND73204 3	D:\Github\Mask_GGJ26_WwiseProject\.cache\AE\{AE15D98F-372A-6D28-77DB-4B312B5B7878}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Stereo_SFX\Player\footstep\footstep_terrain\grass\Footsteps, Animal, Foley Stage, Small Cat, Walking On Grass And Mud 01 SND73204 3		74704
 	362912490	Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 2	D:\Github\Mask_GGJ26_WwiseProject\.cache\8B\{8B0EBB05-0F15-F473-374F-482A528B476D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Canyon\canyon_sweeteners\canyon_wind\Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 2		82274
+	382112602	Electricity, Sparks, Short Complex Sparks, Designed 03 SND83979	D:\Github\Mask_GGJ26_WwiseProject\.cache\62\{628684AF-D175-2035-24F9-7504CD156012}.wem		\Actor-Mixer Hierarchy\Default Work Unit\World_SFX\Landmarks\lm_wire\lm_wire_seq\lm_wire_var\Electricity, Sparks, Short Complex Sparks, Designed 03 SND83979		77736
 	390020823	spirit_fox-001	D:\Github\Mask_GGJ26_WwiseProject\.cache\04\{04C38268-F984-0861-8686-1F23CC12B86D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Stereo_SFX\NPC\npc_talk\talk_fox\spirit_fox-001		1536096
 	442229226	mask_03	D:\Github\Mask_GGJ26_WwiseProject\.cache\AF\{AF004547-363E-B69F-2C64-69F9F507DB4E}.wem		\Interactive Music Hierarchy\Default Work Unit\Encounters\Tunnel_Music\mask_03\mask_03		18159492
 	472955825	mask_02_102bpm_pre-intro	D:\Github\Mask_GGJ26_WwiseProject\.cache\93\{9355F0BE-9FB5-1C81-CC2E-67574B6B31FB}.wem		\Interactive Music Hierarchy\Default Work Unit\Encounters\Tree_Music\mask_02_102bpm_pre-intro\mask_02_102bpm_pre-intro		52422
@@ -69,5 +74,6 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	884261639	forest_loop	D:\Github\Mask_GGJ26_WwiseProject\.cache\0B\{0B5F136A-AE16-D3A8-81FE-12EF6A2AFFC0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Forest\forest_loop		2400099
 	921759739	canyon_wind_loop	D:\Github\Mask_GGJ26_WwiseProject\.cache\28\{28C8FCC1-52FC-4704-48B3-5116DB7E1553}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Canyon\canyon_wind_loop		232270
 	1002090833	mask_02_102bpm_outro	D:\Github\Mask_GGJ26_WwiseProject\.cache\F4\{F4A1EF6E-7416-A7B2-3A1A-DBE362BDCAA8}.wem		\Interactive Music Hierarchy\Default Work Unit\Encounters\End_Music\mask_02_102bpm_outro\mask_02_102bpm_outro		7804332
+	1003836130	lm_wire_hum	D:\Github\Mask_GGJ26_WwiseProject\.cache\94\{94DF0E49-58EB-9897-EF0B-E77279E15353}.wem		\Actor-Mixer Hierarchy\Default Work Unit\World_SFX\Landmarks\lm_wire\lm_wire_hum		5166136
 	1051133147	Footsteps, Animal, Small Dog, Paws In Sand SND124661 3	D:\Github\Mask_GGJ26_WwiseProject\.cache\77\{77CFB7F9-ABB7-4B50-D55B-A2A016F90020}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Stereo_SFX\Player\footstep\footstep_land\Footsteps, Animal, Small Dog, Paws In Sand SND124661 3		25992
 
