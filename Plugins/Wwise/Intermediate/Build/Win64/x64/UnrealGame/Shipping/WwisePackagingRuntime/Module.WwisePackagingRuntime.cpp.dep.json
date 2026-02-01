@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwisepackagingruntime\\module.wwisepackagingruntime.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\mask_ggj26\\intermediate\\build\\win64\\x64\\racoongame\\shipping\\coreuobject\\sharedpch.coreuobject.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwisepackagingruntime\\definitions.wwisepackagingruntime.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwisepackagingruntime\\private\\wwise\\packaging\\wwiseassetlibraryinfo.cpp",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\packaging\\wwiseassetlibraryinfo.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwiseassetlibraryinfo.generated.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\packaging\\wwiseassetlibraryfilter.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwiseassetlibraryfilter.generated.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\packaging\\wwisesharedassetlibraryfilter.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\packaging\\wwisefilterableassetlibrary.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwisefilterableassetlibrary.generated.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwisesharedassetlibraryfilter.generated.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\stats\\packagingruntime.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwisepackagingruntime\\private\\wwise\\stats\\packagingruntime.cpp",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwisepackagingruntime\\private\\wwise\\wwisepackagingruntimemoduleimpl.cpp",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\wwisepackagingruntimemoduleimpl.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\wwisepackagingruntimemodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
