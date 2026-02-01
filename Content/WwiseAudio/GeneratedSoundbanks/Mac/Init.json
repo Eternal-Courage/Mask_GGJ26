@@ -251,9 +251,83 @@
        }
       ]
      }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "354267144",
+      "Name": "Terrain",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Player\\Terrain",
+      "GUID": "{FB40AF05-1E71-4FE6-9303-E17DBD043127}",
+      "Switches": [
+       {
+        "Id": "4248645337",
+        "Name": "Grass",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Player\\Terrain\\Grass",
+        "GUID": "{6B90DD59-6874-4DF5-9194-B90FA4B3DD03}"
+       }
+      ]
+     },
+     {
+      "Id": "662417162",
+      "Name": "NPC",
+      "ObjectPath": "\\Switches\\Default Work Unit\\NPC",
+      "GUID": "{1450610C-BA48-4D30-8218-EB2563E407B7}",
+      "Switches": [
+       {
+        "Id": "1083137540",
+        "Name": "fox",
+        "ObjectPath": "\\Switches\\Default Work Unit\\NPC\\fox",
+        "GUID": "{2D018176-2860-451D-9979-818E196F3BB3}"
+       },
+       {
+        "Id": "1190179415",
+        "Name": "bear",
+        "ObjectPath": "\\Switches\\Default Work Unit\\NPC\\bear",
+        "GUID": "{4F1D7C29-626F-4551-9E80-148C9B96175F}"
+       }
+      ]
+     },
+     {
+      "Id": "2792801369",
+      "Name": "Mask",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Player\\Mask",
+      "GUID": "{C6E54BA8-BEE9-4022-9E38-6CD0AC8737FD}",
+      "Switches": [
+       {
+        "Id": "1038918637",
+        "Name": "Pragmatist",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Player\\Mask\\Pragmatist",
+        "GUID": "{902B4334-37DA-46B6-BBC7-46312F337EEA}"
+       },
+       {
+        "Id": "1194701605",
+        "Name": "Profiteer",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Player\\Mask\\Profiteer",
+        "GUID": "{F4C72581-EEDA-4D4E-91E1-BAA308D8B81E}"
+       },
+       {
+        "Id": "1341575727",
+        "Name": "Wanderer",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Player\\Mask\\Wanderer",
+        "GUID": "{45318FC8-74B6-4EDE-BF3A-00279717D79A}"
+       },
+       {
+        "Id": "3354297748",
+        "Name": "Empty",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Player\\Mask\\Empty",
+        "GUID": "{689D86D7-4348-4C18-A41A-B5AFF485F046}"
+       },
+       {
+        "Id": "3718863990",
+        "Name": "Revolutionary",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Player\\Mask\\Revolutionary",
+        "GUID": "{AAD2F94B-13D2-4F61-984B-3FD58EFAEBCB}"
+       }
+      ]
+     }
     ]
    }
   ],
-  "FileHash": "{CF455EA6-5CAF-1D94-0C75-55633A4FA259}"
+  "FileHash": "{9A01ECB1-3262-AC97-CE57-36945DE30D33}"
  }
 }
