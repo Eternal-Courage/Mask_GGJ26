@@ -1,0 +1,259 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Type": "User",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "Hash": "{3E3AA078-52B0-305A-BC8E-E73CA76F5B61}",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "48620415",
+       "Name": "Have_U_Ever_Been_Outside",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Exteriors\\Have_U_Ever_Been_Outside",
+       "GUID": "{FE29AE8D-FD86-4652-A95D-68D32F5760EC}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      },
+      {
+       "Id": "2791153688",
+       "Name": "Hall_Small",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Halls\\Hall_Small",
+       "GUID": "{D65B5F04-B83B-412C-9434-34A13A477E24}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ],
+     "AudioDevices": [
+      {
+       "Id": "2317455096",
+       "Name": "No_Output",
+       "ObjectPath": "\\Audio Devices\\Default Work Unit\\No_Output",
+       "GUID": "{0FA57258-7B80-4A00-9169-CCAA096E618D}",
+       "LibName": "No Output",
+       "LibId": "11862023"
+      },
+      {
+       "Id": "3859886410",
+       "Name": "System",
+       "ObjectPath": "\\Audio Devices\\Default Work Unit\\System",
+       "GUID": "{FB81BA3D-F764-4823-9437-9B2C8B030D7E}",
+       "LibName": "System",
+       "LibId": "11403271"
+      }
+     ]
+    },
+    "Busses": [
+     {
+      "Id": "65026873",
+      "Name": "Stereo_SFX",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Gameplay\\Stereo_SFX",
+      "GUID": "{C34DF9FF-B3BD-4989-883F-D35C8FF38ED4}"
+     },
+     {
+      "Id": "85412153",
+      "Name": "Ambience",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Gameplay\\Ambience",
+      "GUID": "{55B83CAB-7743-47DE-B09F-788A4715C578}"
+     },
+     {
+      "Id": "89505537",
+      "Name": "Gameplay",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Gameplay",
+      "GUID": "{F09DB9B8-6024-4D7C-91BF-2FC0FE502C8D}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "2791153688"
+        }
+       ]
+      },
+      "AuxBusRefs": [
+       {
+        "Id": "3234461161",
+        "Name": "GameplayReverb",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\GameplayReverb",
+        "GUID": "{7396142C-494F-4D4C-A447-ACA08CDB7305}"
+       }
+      ]
+     },
+     {
+      "Id": "1551306167",
+      "Name": "UI",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\UI",
+      "GUID": "{7F76580A-BB56-48ED-A8CB-4E88961CEB13}"
+     },
+     {
+      "Id": "1621228179",
+      "Name": "World_SFX",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Gameplay\\World_SFX",
+      "GUID": "{85C42B27-B3EB-4FC7-BDE4-99E21BCDC361}"
+     },
+     {
+      "Id": "3803692087",
+      "Name": "Master Audio Bus",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus",
+      "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"
+     },
+     {
+      "Id": "3991942870",
+      "Name": "Music",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Music",
+      "GUID": "{18ACAC94-6821-49CB-88A9-EA527E93DFD9}"
+     }
+    ],
+    "AuxBusses": [
+     {
+      "Id": "3234461161",
+      "Name": "GameplayReverb",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\GameplayReverb",
+      "GUID": "{7396142C-494F-4D4C-A447-ACA08CDB7305}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "48620415"
+        }
+       ]
+      }
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1828425363",
+      "Name": "CFG_Volume_Master",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Config\\CFG_Volume_Master",
+      "GUID": "{B9CBFBDC-5EFE-418D-8E3E-C94D11054135}"
+     },
+     {
+      "Id": "3307660738",
+      "Name": "CFG_Volume_SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Config\\CFG_Volume_SFX",
+      "GUID": "{62471543-1FC8-4D54-A2A9-20551FE62F97}"
+     },
+     {
+      "Id": "4217678850",
+      "Name": "CFG_Volume_Music",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Config\\CFG_Volume_Music",
+      "GUID": "{E1094227-AD9A-4551-87E0-8D332248988E}"
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "705466615",
+      "Name": "Amb_Location",
+      "ObjectPath": "\\States\\Default Work Unit\\Ambience\\Amb_Location",
+      "GUID": "{BA71F3C0-B4EB-4929-999F-428867F3836B}",
+      "States": [
+       {
+        "Id": "491961918",
+        "Name": "Forest",
+        "ObjectPath": "\\States\\Default Work Unit\\Ambience\\Amb_Location\\Forest",
+        "GUID": "{ADC9C427-3539-4297-8A75-27D1A37A8380}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Ambience\\Amb_Location\\None",
+        "GUID": "{213AAE9B-C0C9-4087-B6C1-98EACABB3F23}"
+       },
+       {
+        "Id": "2927127661",
+        "Name": "Canyon",
+        "ObjectPath": "\\States\\Default Work Unit\\Ambience\\Amb_Location\\Canyon",
+        "GUID": "{67C75341-2428-445D-98D1-D7706A1E88CF}"
+       }
+      ]
+     },
+     {
+      "Id": "3329309366",
+      "Name": "Amb_Reverb",
+      "ObjectPath": "\\States\\Default Work Unit\\Ambience\\Amb_Reverb",
+      "GUID": "{05AE27B0-FBE3-4A4B-9062-435D67246CEF}",
+      "States": [
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Ambience\\Amb_Reverb\\None",
+        "GUID": "{632BB125-9946-4BDC-9822-9EF0ACE5889E}"
+       },
+       {
+        "Id": "830544938",
+        "Name": "HollowLog",
+        "ObjectPath": "\\States\\Default Work Unit\\Ambience\\Amb_Reverb\\HollowLog",
+        "GUID": "{6D9797BF-5CFB-448B-AC43-9679AE9740FA}"
+       }
+      ]
+     },
+     {
+      "Id": "3367563548",
+      "Name": "Game_Paused",
+      "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_Paused",
+      "GUID": "{38C9EAD8-4165-4A89-A62E-F3C1CD555297}",
+      "States": [
+       {
+        "Id": "319258907",
+        "Name": "Paused",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_Paused\\Paused",
+        "GUID": "{E7F5EDBC-C9EA-4B5B-AA63-C074A5003586}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_Paused\\None",
+        "GUID": "{64EB0B97-55A1-4837-B946-6CA79EBF5882}"
+       }
+      ]
+     },
+     {
+      "Id": "3589896044",
+      "Name": "Game_FSM",
+      "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_FSM",
+      "GUID": "{B20BB616-979B-47F4-B53E-20B246FF0F02}",
+      "States": [
+       {
+        "Id": "89505537",
+        "Name": "Gameplay",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_FSM\\Gameplay",
+        "GUID": "{93639780-875F-4AA7-8F23-575F8A1D916E}"
+       },
+       {
+        "Id": "529726532",
+        "Name": "End",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_FSM\\End",
+        "GUID": "{6085F9ED-9963-412E-8E85-4A6F0FEBD02E}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_FSM\\None",
+        "GUID": "{CA2C8B81-C0CD-49D7-88DC-7F36BB0B13EC}"
+       },
+       {
+        "Id": "1125500713",
+        "Name": "Intro",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_FSM\\Intro",
+        "GUID": "{F72C3AE6-A67B-4C8D-A7B9-827D31329B49}"
+       },
+       {
+        "Id": "2607556080",
+        "Name": "Menu",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_FSM\\Menu",
+        "GUID": "{96F2CB4F-2826-4460-8449-DFD1E2B02A3A}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{CF455EA6-5CAF-1D94-0C75-55633A4FA259}"
+ }
+}

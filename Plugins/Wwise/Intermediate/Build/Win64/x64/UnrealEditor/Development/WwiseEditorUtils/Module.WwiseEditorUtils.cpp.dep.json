@@ -1,0 +1,39 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wwiseeditorutils\\module.wwiseeditorutils.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\mask_ggj26\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wwiseeditorutils\\definitions.wwiseeditorutils.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseeditorutils\\private\\wwise\\wwiseeditorutilsmoduleimpl.cpp",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseeditorutils\\public\\wwise\\wwiseeditorutilsmoduleimpl.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseeditorutils\\public\\wwise\\wwiseeditorutilsmodule.h",
+            "g:\\ue_5.4\\engine\\source\\developer\\assettools\\public\\assettypecategories.h",
+            "g:\\ue_5.4\\engine\\source\\developer\\assettools\\public\\assettoolsmodule.h",
+            "g:\\ue_5.4\\engine\\source\\developer\\assettools\\public\\iassettools.h",
+            "g:\\ue_5.4\\engine\\source\\developer\\assettools\\public\\iassettypeactions.h",
+            "g:\\ue_5.4\\engine\\source\\developer\\merge\\public\\merge.h",
+            "g:\\ue_5.4\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailmanager.h",
+            "g:\\ue_5.4\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailrenderer.h",
+            "g:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailrenderer.generated.h",
+            "g:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailmanager.generated.h",
+            "g:\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\automatedassetimportdata.h",
+            "g:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\automatedassetimportdata.generated.h",
+            "g:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assettools\\uht\\iassettools.generated.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseeditorutils\\public\\wwise\\wwisepluginstyle.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseeditorutils\\private\\wwise\\wwisepluginstyle.cpp",
+            "g:\\ue_5.4\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyleregistry.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
