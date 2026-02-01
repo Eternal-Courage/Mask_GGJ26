@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\mask_ggj26\\plugins\\wwisesoundengine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wwiselowlevelutils\\module.wwiselowlevelutils.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\mask_ggj26\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\mask_ggj26\\plugins\\wwisesoundengine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wwiselowlevelutils\\definitions.wwiselowlevelutils.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwisesoundengine\\source\\wwiselowlevelutils\\private\\wwise\\stats\\namedevents.cpp",
+            "d:\\github\\mask_ggj26\\plugins\\wwisesoundengine\\source\\wwiselowlevelutils\\public\\wwise\\stats\\namedevents.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwiseutils\\module.wwiseutils.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\mask_ggj26\\intermediate\\build\\win64\\x64\\racoongame\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwiseutils\\definitions.wwiseutils.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseutils\\private\\wwiseunrealhelper.cpp",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseutils\\public\\wwiseunrealhelper.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseutils\\public\\wwise\\stats\\global.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseutils\\private\\wwise\\stats\\global.cpp",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseutils\\private\\wwise\\stats\\memory.cpp",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseutils\\public\\wwise\\stats\\memory.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\core\\public\\hal\\lowlevelmemstats.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

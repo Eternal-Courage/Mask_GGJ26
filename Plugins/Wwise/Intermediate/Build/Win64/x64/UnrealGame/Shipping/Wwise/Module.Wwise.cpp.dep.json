@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwise\\module.wwise.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\mask_ggj26\\intermediate\\build\\win64\\x64\\racoongame\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwise\\definitions.wwise.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwise\\private\\wwise\\stats\\wwise.cpp",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwise\\public\\wwise\\stats\\wwise.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwisesoundengine\\source\\wwiselowlevelutils\\public\\wwise\\stats\\namedevents.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwise\\private\\wwise\\wwisemodule.cpp",
+            "d:\\github\\mask_ggj26\\plugins\\wwisesoundengine\\source\\wwisesoundengine\\public\\wwisedefines.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseutils\\public\\wwiseunrealdefines.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwisesoundengine\\source\\wwiselowlevelutils\\public\\wwise\\wwiseunrealversion.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\wwisepackagingruntimemoduleimpl.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\wwisepackagingruntimemodule.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseaudiolinkruntime\\public\\wwise\\wwiseaudiolinkruntimemodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
