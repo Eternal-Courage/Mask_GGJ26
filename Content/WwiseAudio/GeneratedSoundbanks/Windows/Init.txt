@@ -1,0 +1,40 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	705466615	Amb_Location			\Default Work Unit\Ambience\Amb_Location	
+	3329309366	Amb_Reverb			\Default Work Unit\Ambience\Amb_Reverb	
+	3367563548	Game_Paused			\Default Work Unit\Util\Game_Paused	
+	3589896044	Game_FSM			\Default Work Unit\Util\Game_FSM	
+
+State	ID	Name	State Group			Notes
+	491961918	Forest	Amb_Location			
+	748895195	None	Amb_Location			
+	2927127661	Canyon	Amb_Location			
+	748895195	None	Amb_Reverb			
+	830544938	HollowLog	Amb_Reverb			
+	319258907	Paused	Game_Paused			
+	748895195	None	Game_Paused			
+	89505537	Gameplay	Game_FSM			
+	529726532	End	Game_FSM			
+	748895195	None	Game_FSM			
+	1125500713	Intro	Game_FSM			
+	2607556080	Menu	Game_FSM			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	65026873	Stereo_SFX			\Default Work Unit\Master Audio Bus\Gameplay\Stereo_SFX	
+	85412153	Ambience			\Default Work Unit\Master Audio Bus\Gameplay\Ambience	
+	89505537	Gameplay			\Default Work Unit\Master Audio Bus\Gameplay	
+	1551306167	UI			\Default Work Unit\Master Audio Bus\UI	
+	1621228179	World_SFX			\Default Work Unit\Master Audio Bus\Gameplay\World_SFX	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Gameplay\Music	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	3234461161	GameplayReverb			\Default Work Unit\Master Audio Bus\GameplayReverb	
+
+Effect plug-ins	ID	Name	Type				Notes
+	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
+	2791153688	Hall_Small	Wwise RoomVerb			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

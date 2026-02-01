@@ -1,0 +1,32 @@
+Event	ID	Name			Wwise Object Path	Notes
+	733168346	Game_Start			\Default Work Unit\Util\Game_Start	
+	2132203619	Play_AmbientBed			\Default Work Unit\Ambience\Play_AmbientBed	
+	3207452328	Play_lm_waterfall			\Default Work Unit\SFX\Play_lm_waterfall	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	705466615	Amb_Location			\Default Work Unit\Ambience\Amb_Location	
+	3589896044	Game_FSM			\Default Work Unit\Util\Game_FSM	
+
+State	ID	Name	State Group			Notes
+	491961918	Forest	Amb_Location			
+	748895195	None	Amb_Location			
+	2927127661	Canyon	Amb_Location			
+	89505537	Gameplay	Game_FSM			
+	529726532	End	Game_FSM			
+	748895195	None	Game_FSM			
+	1125500713	Intro	Game_FSM			
+	2607556080	Menu	Game_FSM			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	449023794	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Canyon\canyon_sweeteners\Silence\Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	15123436	mask_01_ccpt2	D:\Github\Mask_GGJ26_WwiseProject\.cache\08\{08651293-186C-D187-32F3-754414CDFAD3}.wem		\Interactive Music Hierarchy\Default Work Unit\Game_Music\Menu_Music\mask_01_ccpt2\mask_01_ccpt2		1336484
+	362912490	Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 2	D:\Github\Mask_GGJ26_WwiseProject\.cache\8B\{8B0EBB05-0F15-F473-374F-482A528B476D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Canyon\canyon_sweeteners\canyon_wind\Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 2		82274
+	654332709	waterfall_02	D:\Github\Mask_GGJ26_WwiseProject\.cache\89\{896A5596-C6EB-E943-0F8B-68502673812A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\World_SFX\Landmarks\lm_waterfall\waterfall_02		12348144
+	689833635	Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 1	D:\Github\Mask_GGJ26_WwiseProject\.cache\90\{901F9BEF-27C2-AD2E-F007-DAABD36142FF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Canyon\canyon_sweeteners\canyon_wind\Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 1		30427
+	796760020	waterfall_01	D:\Github\Mask_GGJ26_WwiseProject\.cache\6B\{6BB0B002-F440-EC58-6735-D297C2205E5D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\World_SFX\Landmarks\lm_waterfall\waterfall_01		12348144
+	810183482	Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 3	D:\Github\Mask_GGJ26_WwiseProject\.cache\B8\{B8273246-1702-B0B8-F876-F46B5ACF89D7}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Canyon\canyon_sweeteners\canyon_wind\Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 3		82929
+	884261639	forest_loop	D:\Github\Mask_GGJ26_WwiseProject\.cache\23\{23FEB292-C521-4C8D-7022-FEEB2F1F5F66}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Forest\forest_loop		2400099
+	921759739	canyon_wind_loop	D:\Github\Mask_GGJ26_WwiseProject\.cache\6C\{6CF5B52B-C6C8-23FC-3252-7D620CE02A6E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Canyon\canyon_wind_loop		232270
+
