@@ -10,19 +10,11 @@
     "Type": "User",
     "GUID": "{ECFA8ADF-B3B7-4213-8883-3240C81476EF}",
     "Language": "SFX",
-    "Hash": "{B4C3A912-B01B-96D5-5F02-74E430BB3BB6}",
+    "Hash": "{0E67383A-6424-B8BA-E139-3D347BB6673E}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
     "Media": [
-     {
-      "Id": "15123436",
-      "Language": "SFX",
-      "Streaming": "false",
-      "Location": "Memory",
-      "ShortName": "mask_01_ccpt2.wav",
-      "CachePath": "08/{08651293-186C-D187-32F3-754414CDFAD3}.wem"
-     },
      {
       "Id": "38059963",
       "Language": "SFX",
@@ -30,6 +22,38 @@
       "Location": "Memory",
       "ShortName": "Footsteps, Animal, Small Dog, Paws In Sand SND124661 1.wav",
       "CachePath": "56/{5641F473-647A-7AB3-790D-659959126089}.wem"
+     },
+     {
+      "Id": "61462405",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "WhatRemains_108bpm_wanderer.wav",
+      "CachePath": "31/{312EC175-A6BD-A028-4402-A562449C67BB}.wem"
+     },
+     {
+      "Id": "73003127",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Paper, Misc, Paper Crumple, Toss SND123930.wav",
+      "CachePath": "D1/{D1CC05CD-0E7D-DDD6-C340-1B731CB079C0}.wem"
+     },
+     {
+      "Id": "138057731",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "WhatRemains_108bpm_profiteer.wav",
+      "CachePath": "C9/{C96658CE-EB7D-BC26-77E9-3EAB79031173}.wem"
+     },
+     {
+      "Id": "162492317",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Water, Spray, Garden Sprinkler, Stutter, With Steady Water Stream SND61132.wav",
+      "CachePath": "6F/{6FFF55F0-0019-7B5E-E745-816F1B74756B}.wem"
      },
      {
       "Id": "173557121",
@@ -48,12 +72,28 @@
       "CachePath": "F2/{F20B5BAA-FDE8-17B2-EB05-1C79DAECFB3A}.wem"
      },
      {
+      "Id": "195517471",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "WhatRemains_108bpm_revolutionary.wav",
+      "CachePath": "04/{04B129B0-EA57-0E6C-9815-6E8F79AF7A62}.wem"
+     },
+     {
       "Id": "226884716",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "mask_01_sting1.wav",
       "CachePath": "15/{15540B70-5B68-EE0B-925D-D3767C8CEAB1}.wem"
+     },
+     {
+      "Id": "268717818",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Food & Drink, Kitchenware, Can Of Soda, Open, Fizz SND122610.wav",
+      "CachePath": "6E/{6E80DCF8-185E-FC40-B830-416B5427A870}.wem"
      },
      {
       "Id": "290583222",
@@ -88,6 +128,14 @@
       "CachePath": "AE/{AE15D98F-372A-6D28-77DB-4B312B5B7878}.wem"
      },
      {
+      "Id": "356244772",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Cartoon, Boing, Spring Bounce, Jump SND15416.wav",
+      "CachePath": "E6/{E60D802E-191F-CF5A-F2DE-104C6A1D32E0}.wem"
+     },
+     {
       "Id": "362912490",
       "Language": "SFX",
       "Streaming": "false",
@@ -117,7 +165,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "mask_03.wav",
-      "CachePath": "AF/{AF004547-363E-B69F-2C64-69F9F507DB4E}.wem"
+      "CachePath": "9C/{9CBB8EF9-D6D9-3E4D-A82E-884A1BC105B8}.wem"
      },
      {
       "Id": "472955825",
@@ -157,7 +205,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "mask_02_102bpm_main.wav",
-      "CachePath": "35/{359673B4-C1B9-289E-F99E-1FDFB23E3CE2}.wem"
+      "CachePath": "5C/{5C4150EF-0406-E262-464E-2A27CA6605FD}.wem"
      },
      {
       "Id": "654332709",
@@ -184,6 +232,14 @@
       "CachePath": "90/{901F9BEF-27C2-AD2E-F007-DAABD36142FF}.wem"
      },
      {
+      "Id": "691050660",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Drawers, Wood, Open, Paper Shuffle, Close SND8138.wav",
+      "CachePath": "55/{55E877C2-3926-0197-60D2-FA6D642800F5}.wem"
+     },
+     {
       "Id": "796760020",
       "Language": "SFX",
       "Streaming": "false",
@@ -208,6 +264,14 @@
       "CachePath": "28/{28314BA0-BDC1-D6EB-27D7-8AF585F1ECA8}.wem"
      },
      {
+      "Id": "850118265",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "WhatRemains_108bpm_empty.wav",
+      "CachePath": "85/{8581ED3D-3C7B-7D98-DF8E-875F2B32DFD5}.wem"
+     },
+     {
       "Id": "884261639",
       "Language": "SFX",
       "Streaming": "false",
@@ -224,12 +288,20 @@
       "CachePath": "28/{28C8FCC1-52FC-4704-48B3-5116DB7E1553}.wem"
      },
      {
+      "Id": "927970661",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Food & Drink, Kitchenware, Can Of Soda, Open, Fizz SND122610 1.wav",
+      "CachePath": "9C/{9C54730C-6170-8FEF-DE85-D39F8B716747}.wem"
+     },
+     {
       "Id": "1002090833",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "mask_02_102bpm_outro.wav",
-      "CachePath": "F4/{F4A1EF6E-7416-A7B2-3A1A-DBE362BDCAA8}.wem"
+      "CachePath": "96/{969BC44B-9FA7-1596-477A-F4CE8E22112C}.wem"
      },
      {
       "Id": "1003836130",
@@ -238,6 +310,14 @@
       "Location": "Memory",
       "ShortName": "Electricity, Sparks, Pole Vibration, Micro Boom, Vibration, Crackling Electricity, Mexico 01 SND100429.wav",
       "CachePath": "94/{94DF0E49-58EB-9897-EF0B-E77279E15353}.wem"
+     },
+     {
+      "Id": "1026007499",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "WhatRemains_108bpm_pragmatist.wav",
+      "CachePath": "CC/{CCE1A78B-7E82-8E0F-5C5C-90878350D41A}.wem"
      },
      {
       "Id": "1051133147",
@@ -300,10 +380,22 @@
         },
         "MediaRefs": [
          {
-          "Id": "15123436"
+          "Id": "61462405"
+         },
+         {
+          "Id": "138057731"
+         },
+         {
+          "Id": "195517471"
          },
          {
           "Id": "226884716"
+         },
+         {
+          "Id": "850118265"
+         },
+         {
+          "Id": "1026007499"
          }
         ]
        }
@@ -509,9 +601,143 @@
       "Name": "Play_mask_ability",
       "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Play_mask_ability",
       "GUID": "{F2717ED5-CB8F-4370-810C-A42CC65C1F8C}",
-      "DurationType": "OneShot",
-      "DurationMin": "0",
-      "DurationMax": "0"
+      "DurationType": "Mixed",
+      "DurationMin": "0.21276492",
+      "DurationMax": "Infinite",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2792801369",
+         "Id": "1038918637",
+         "GUID": "{902B4334-37DA-46B6-BBC7-46312F337EEA}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "691050660"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2792801369",
+         "Id": "3718863990",
+         "GUID": "{AAD2F94B-13D2-4F61-984B-3FD58EFAEBCB}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "73003127"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2792801369",
+         "Id": "1194701605",
+         "GUID": "{F4C72581-EEDA-4D4E-91E1-BAA308D8B81E}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "356244772"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2792801369",
+         "Id": "1341575727",
+         "GUID": "{45318FC8-74B6-4EDE-BF3A-00279717D79A}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "162492317"
+         },
+         {
+          "Id": "268717818"
+         },
+         {
+          "Id": "927970661"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Id": "878567970",
+      "Name": "Play_Mask_Music",
+      "ObjectPath": "\\Events\\Default Work Unit\\MUS\\Play_Mask_Music",
+      "GUID": "{CBF83B80-F99E-485E-9E14-85DF983C9305}",
+      "DurationType": "Infinite",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2792801369",
+         "Id": "3354297748",
+         "GUID": "{689D86D7-4348-4C18-A41A-B5AFF485F046}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "850118265"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2792801369",
+         "Id": "1038918637",
+         "GUID": "{902B4334-37DA-46B6-BBC7-46312F337EEA}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "1026007499"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2792801369",
+         "Id": "1194701605",
+         "GUID": "{F4C72581-EEDA-4D4E-91E1-BAA308D8B81E}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "138057731"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2792801369",
+         "Id": "3718863990",
+         "GUID": "{AAD2F94B-13D2-4F61-984B-3FD58EFAEBCB}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "195517471"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "2792801369",
+         "Id": "1341575727",
+         "GUID": "{45318FC8-74B6-4EDE-BF3A-00279717D79A}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "61462405"
+         }
+        ]
+       }
+      ]
      },
      {
       "Id": "2134431836",
@@ -594,6 +820,16 @@
         "Id": "442229226"
        }
       ]
+     },
+     {
+      "Id": "1115184915",
+      "Name": "Stop_mask_ability",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Stop_mask_ability",
+      "GUID": "{ECC7602A-62CE-4028-983E-FA6C068F2848}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
      }
     ],
     "StateGroups": [
@@ -758,6 +994,6 @@
     ]
    }
   ],
-  "FileHash": "{60D1EF87-77F8-3415-A7CC-4B86F063D390}"
+  "FileHash": "{73D79C51-49B6-9724-C0BA-30B8D32D7FB8}"
  }
 }
