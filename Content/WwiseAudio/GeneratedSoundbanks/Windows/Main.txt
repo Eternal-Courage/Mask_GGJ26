@@ -1,0 +1,44 @@
+Event	ID	Name			Wwise Object Path	Notes
+	308000976	Play_TunnelEnc			\Default Work Unit\MUS\Play_TunnelEnc	
+	733168346	Game_Start			\Default Work Unit\Util\Game_Start	
+	2132203619	Play_AmbientBed			\Default Work Unit\Ambience\Play_AmbientBed	
+	2546257031	Play_EndEnc			\Default Work Unit\MUS\Play_EndEnc	
+	2727155482	Play_TreeEnc			\Default Work Unit\MUS\Play_TreeEnc	
+	3207452328	Play_lm_waterfall			\Default Work Unit\SFX\Play_lm_waterfall	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	705466615	Amb_Location			\Default Work Unit\Ambience\Amb_Location	
+	3589896044	Game_FSM			\Default Work Unit\Util\Game_FSM	
+
+State	ID	Name	State Group			Notes
+	491961918	Forest	Amb_Location			
+	748895195	None	Amb_Location			
+	2927127661	Canyon	Amb_Location			
+	89505537	Gameplay	Game_FSM			
+	529726532	End	Game_FSM			
+	748895195	None	Game_FSM			
+	1125500713	Intro	Game_FSM			
+	2607556080	Menu	Game_FSM			
+
+Effect plug-ins	ID	Name	Type				Notes
+	3216246379	Space_Dreaming	Wwise RoomVerb			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	449023794	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Canyon\canyon_sweeteners\Silence\Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	15123436	mask_01_ccpt2	D:\Github\Mask_GGJ26_WwiseProject\.cache\08\{08651293-186C-D187-32F3-754414CDFAD3}.wem		\Interactive Music Hierarchy\Default Work Unit\Game_Music\Menu_Music\mask_01_ccpt2\mask_01_ccpt2		1336484
+	226884716	mask_01_sting1	D:\Github\Mask_GGJ26_WwiseProject\.cache\15\{15540B70-5B68-EE0B-925D-D3767C8CEAB1}.wem		\Interactive Music Hierarchy\Default Work Unit\Game_Music\Menu_Music\mask_01_sting1\mask_01_sting1		33582
+	362912490	Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 2	D:\Github\Mask_GGJ26_WwiseProject\.cache\8B\{8B0EBB05-0F15-F473-374F-482A528B476D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Canyon\canyon_sweeteners\canyon_wind\Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 2		82274
+	442229226	mask_03	D:\Github\Mask_GGJ26_WwiseProject\.cache\AF\{AF004547-363E-B69F-2C64-69F9F507DB4E}.wem		\Interactive Music Hierarchy\Default Work Unit\Encounters\Tunnel_Music\mask_03\mask_03		18159492
+	472955825	mask_02_102bpm_pre-intro	D:\Github\Mask_GGJ26_WwiseProject\.cache\93\{9355F0BE-9FB5-1C81-CC2E-67574B6B31FB}.wem		\Interactive Music Hierarchy\Default Work Unit\Encounters\Tree_Music\mask_02_102bpm_pre-intro\mask_02_102bpm_pre-intro		52422
+	519435958	mask_02_102bpm_intro	D:\Github\Mask_GGJ26_WwiseProject\.cache\8F\{8FC22E6B-5BFA-A24B-8DDB-E53755112201}.wem		\Interactive Music Hierarchy\Default Work Unit\Encounters\Tree_Music\mask_02_102bpm_intro\mask_02_102bpm_intro		265635
+	641123485	mask_02_102bpm_main	D:\Github\Mask_GGJ26_WwiseProject\.cache\35\{359673B4-C1B9-289E-F99E-1FDFB23E3CE2}.wem		\Interactive Music Hierarchy\Default Work Unit\Encounters\End_Music\mask_02_102bpm_main\mask_02_102bpm_main		11745980
+	654332709	waterfall_02	D:\Github\Mask_GGJ26_WwiseProject\.cache\89\{896A5596-C6EB-E943-0F8B-68502673812A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\World_SFX\Landmarks\lm_waterfall\waterfall_02		12348144
+	689833635	Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 1	D:\Github\Mask_GGJ26_WwiseProject\.cache\90\{901F9BEF-27C2-AD2E-F007-DAABD36142FF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Canyon\canyon_sweeteners\canyon_wind\Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 1		30427
+	796760020	waterfall_01	D:\Github\Mask_GGJ26_WwiseProject\.cache\6B\{6BB0B002-F440-EC58-6735-D297C2205E5D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\World_SFX\Landmarks\lm_waterfall\waterfall_01		12348144
+	810183482	Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 3	D:\Github\Mask_GGJ26_WwiseProject\.cache\B8\{B8273246-1702-B0B8-F876-F46B5ACF89D7}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Canyon\canyon_sweeteners\canyon_wind\Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 3		82929
+	884261639	forest_loop	D:\Github\Mask_GGJ26_WwiseProject\.cache\23\{23FEB292-C521-4C8D-7022-FEEB2F1F5F66}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Forest\forest_loop		2400099
+	921759739	canyon_wind_loop	D:\Github\Mask_GGJ26_WwiseProject\.cache\17\{175817E8-9A83-3C74-D6A8-456E61D036FA}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\AmbientBed\Ambience_Canyon\canyon_wind_loop		232270
+	1002090833	mask_02_102bpm_outro	D:\Github\Mask_GGJ26_WwiseProject\.cache\F4\{F4A1EF6E-7416-A7B2-3A1A-DBE362BDCAA8}.wem		\Interactive Music Hierarchy\Default Work Unit\Encounters\End_Music\mask_02_102bpm_outro\mask_02_102bpm_outro		7804332
+

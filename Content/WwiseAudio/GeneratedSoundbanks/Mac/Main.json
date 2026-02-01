@@ -1,0 +1,434 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{ECFA8ADF-B3B7-4213-8883-3240C81476EF}",
+    "Language": "SFX",
+    "Hash": "{D72D9D14-BFAD-9789-B329-904C51183E82}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "Media": [
+     {
+      "Id": "15123436",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mask_01_ccpt2.wav",
+      "CachePath": "08/{08651293-186C-D187-32F3-754414CDFAD3}.wem"
+     },
+     {
+      "Id": "226884716",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mask_01_sting1.wav",
+      "CachePath": "15/{15540B70-5B68-EE0B-925D-D3767C8CEAB1}.wem"
+     },
+     {
+      "Id": "362912490",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 2.wav",
+      "CachePath": "8B/{8B0EBB05-0F15-F473-374F-482A528B476D}.wem"
+     },
+     {
+      "Id": "442229226",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mask_03.wav",
+      "CachePath": "AF/{AF004547-363E-B69F-2C64-69F9F507DB4E}.wem"
+     },
+     {
+      "Id": "472955825",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mask_02_102bpm_pre-intro.wav",
+      "CachePath": "93/{9355F0BE-9FB5-1C81-CC2E-67574B6B31FB}.wem"
+     },
+     {
+      "Id": "519435958",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mask_02_102bpm_intro.wav",
+      "CachePath": "8F/{8FC22E6B-5BFA-A24B-8DDB-E53755112201}.wem"
+     },
+     {
+      "Id": "641123485",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mask_02_102bpm_main.wav",
+      "CachePath": "35/{359673B4-C1B9-289E-F99E-1FDFB23E3CE2}.wem"
+     },
+     {
+      "Id": "654332709",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "waterfall_02.wav",
+      "CachePath": "89/{896A5596-C6EB-E943-0F8B-68502673812A}.wem"
+     },
+     {
+      "Id": "689833635",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 1.wav",
+      "CachePath": "90/{901F9BEF-27C2-AD2E-F007-DAABD36142FF}.wem"
+     },
+     {
+      "Id": "796760020",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "waterfall_01.wav",
+      "CachePath": "6B/{6BB0B002-F440-EC58-6735-D297C2205E5D}.wem"
+     },
+     {
+      "Id": "810183482",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Swooshes, Whoosh, Organic, Wind, Soft, Long 01 SND55374 3.wav",
+      "CachePath": "B8/{B8273246-1702-B0B8-F876-F46B5ACF89D7}.wem"
+     },
+     {
+      "Id": "884261639",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "349043__craftcrestcom__meadow-in-the-middle-of-the-forest-front.wav",
+      "CachePath": "23/{23FEB292-C521-4C8D-7022-FEEB2F1F5F66}.wem"
+     },
+     {
+      "Id": "921759739",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Wind, General, Dark, Desert, Wind Valley, Dark, Wind Gusts 01 SND81186.wav",
+      "CachePath": "17/{175817E8-9A83-3C74-D6A8-456E61D036FA}.wem"
+     },
+     {
+      "Id": "1002090833",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "mask_02_102bpm_outro.wav",
+      "CachePath": "F4/{F4A1EF6E-7416-A7B2-3A1A-DBE362BDCAA8}.wem"
+     }
+    ],
+    "Plugins": {
+     "Custom": [
+      {
+       "Id": "449023794",
+       "Name": "Silence",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Ambience\\AmbientBed\\Ambience_Canyon\\canyon_sweeteners\\Silence\\Silence",
+       "GUID": "{9710AE79-6DD0-407F-A084-E49AA714AFD9}",
+       "LibName": "Wwise Silence",
+       "LibId": "6619138"
+      }
+     ],
+     "ShareSets": [
+      {
+       "Id": "3216246379",
+       "Name": "Space_Dreaming",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Huge Spaces\\Space_Dreaming",
+       "GUID": "{4FF7C4B2-37B0-4DFF-8E8A-1420102AE2DD}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ]
+    },
+    "Events": [
+     {
+      "Id": "733168346",
+      "Name": "Game_Start",
+      "ObjectPath": "\\Events\\Default Work Unit\\Util\\Game_Start",
+      "GUID": "{F6C71230-848E-4CD9-A897-1199F4FE2F5D}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "226884716"
+       }
+      ],
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3589896044",
+         "Id": "2607556080",
+         "GUID": "{96F2CB4F-2826-4460-8449-DFD1E2B02A3A}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "15123436"
+         },
+         {
+          "Id": "226884716"
+         }
+        ]
+       }
+      ],
+      "ActionSetState": [
+       {
+        "GroupId": "3367563548",
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_Paused\\None",
+        "GUID": "{64EB0B97-55A1-4837-B946-6CA79EBF5882}"
+       },
+       {
+        "GroupId": "3589896044",
+        "Id": "2607556080",
+        "Name": "Menu",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_FSM\\Menu",
+        "GUID": "{96F2CB4F-2826-4460-8449-DFD1E2B02A3A}"
+       }
+      ]
+     },
+     {
+      "Id": "2132203619",
+      "Name": "Play_AmbientBed",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambience\\Play_AmbientBed",
+      "GUID": "{0308DC82-63FD-4CEF-A091-5974FFD5A32A}",
+      "DurationType": "Infinite",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "705466615",
+         "Id": "491961918",
+         "GUID": "{ADC9C427-3539-4297-8A75-27D1A37A8380}",
+         "Default": "true"
+        },
+        "MediaRefs": [
+         {
+          "Id": "884261639"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "705466615",
+         "Id": "2927127661",
+         "GUID": "{67C75341-2428-445D-98D1-D7706A1E88CF}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "362912490"
+         },
+         {
+          "Id": "689833635"
+         },
+         {
+          "Id": "810183482"
+         },
+         {
+          "Id": "921759739"
+         }
+        ],
+        "PluginRefs": {
+         "Custom": [
+          {
+           "Id": "449023794"
+          }
+         ]
+        }
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "705466615",
+         "Id": "748895195",
+         "GUID": "{213AAE9B-C0C9-4087-B6C1-98EACABB3F23}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "884261639"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Id": "2546257031",
+      "Name": "Play_EndEnc",
+      "ObjectPath": "\\Events\\Default Work Unit\\MUS\\Play_EndEnc",
+      "GUID": "{336E45A4-D92E-435C-A51C-DCFF1AFF9BA7}",
+      "DurationType": "OneShot",
+      "DurationMin": "101.17648",
+      "DurationMax": "101.17648",
+      "MediaRefs": [
+       {
+        "Id": "641123485"
+       },
+       {
+        "Id": "1002090833"
+       }
+      ],
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "3216246379"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "3207452328",
+      "Name": "Play_lm_waterfall",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX\\Play_lm_waterfall",
+      "GUID": "{DD859F39-B6BB-4C37-90F4-77305AF4B90E}",
+      "MaxAttenuation": "100",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "654332709"
+       },
+       {
+        "Id": "796760020"
+       }
+      ]
+     },
+     {
+      "Id": "2727155482",
+      "Name": "Play_TreeEnc",
+      "ObjectPath": "\\Events\\Default Work Unit\\MUS\\Play_TreeEnc",
+      "GUID": "{5556AAC2-4298-42EA-8BE7-2BD422A37128}",
+      "DurationType": "OneShot",
+      "DurationMin": "59.25103",
+      "DurationMax": "59.25103",
+      "MediaRefs": [
+       {
+        "Id": "472955825"
+       },
+       {
+        "Id": "519435958"
+       }
+      ],
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "3216246379"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "308000976",
+      "Name": "Play_TunnelEnc",
+      "ObjectPath": "\\Events\\Default Work Unit\\MUS\\Play_TunnelEnc",
+      "GUID": "{3D4A498C-FDB6-49CD-8F03-7AE5B1B7F2F0}",
+      "DurationType": "OneShot",
+      "DurationMin": "36",
+      "DurationMax": "36",
+      "MediaRefs": [
+       {
+        "Id": "442229226"
+       }
+      ]
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "705466615",
+      "Name": "Amb_Location",
+      "ObjectPath": "\\States\\Default Work Unit\\Ambience\\Amb_Location",
+      "GUID": "{BA71F3C0-B4EB-4929-999F-428867F3836B}",
+      "States": [
+       {
+        "Id": "491961918",
+        "Name": "Forest",
+        "ObjectPath": "\\States\\Default Work Unit\\Ambience\\Amb_Location\\Forest",
+        "GUID": "{ADC9C427-3539-4297-8A75-27D1A37A8380}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Ambience\\Amb_Location\\None",
+        "GUID": "{213AAE9B-C0C9-4087-B6C1-98EACABB3F23}"
+       },
+       {
+        "Id": "2927127661",
+        "Name": "Canyon",
+        "ObjectPath": "\\States\\Default Work Unit\\Ambience\\Amb_Location\\Canyon",
+        "GUID": "{67C75341-2428-445D-98D1-D7706A1E88CF}"
+       }
+      ]
+     },
+     {
+      "Id": "3367563548",
+      "Name": "Game_Paused",
+      "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_Paused",
+      "GUID": "{38C9EAD8-4165-4A89-A62E-F3C1CD555297}",
+      "States": [
+       {
+        "Id": "319258907",
+        "Name": "Paused",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_Paused\\Paused",
+        "GUID": "{E7F5EDBC-C9EA-4B5B-AA63-C074A5003586}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_Paused\\None",
+        "GUID": "{64EB0B97-55A1-4837-B946-6CA79EBF5882}"
+       }
+      ]
+     },
+     {
+      "Id": "3589896044",
+      "Name": "Game_FSM",
+      "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_FSM",
+      "GUID": "{B20BB616-979B-47F4-B53E-20B246FF0F02}",
+      "States": [
+       {
+        "Id": "89505537",
+        "Name": "Gameplay",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_FSM\\Gameplay",
+        "GUID": "{93639780-875F-4AA7-8F23-575F8A1D916E}"
+       },
+       {
+        "Id": "529726532",
+        "Name": "End",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_FSM\\End",
+        "GUID": "{6085F9ED-9963-412E-8E85-4A6F0FEBD02E}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_FSM\\None",
+        "GUID": "{CA2C8B81-C0CD-49D7-88DC-7F36BB0B13EC}"
+       },
+       {
+        "Id": "1125500713",
+        "Name": "Intro",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_FSM\\Intro",
+        "GUID": "{F72C3AE6-A67B-4C8D-A7B9-827D31329B49}"
+       },
+       {
+        "Id": "2607556080",
+        "Name": "Menu",
+        "ObjectPath": "\\States\\Default Work Unit\\Util\\Game_FSM\\Menu",
+        "GUID": "{96F2CB4F-2826-4460-8449-DFD1E2B02A3A}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A073DDE6-30A4-D115-F0AA-41C5F113B2FE}"
+ }
+}
