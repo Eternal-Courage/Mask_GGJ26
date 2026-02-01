@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwiseresourceloader\\uht\\wwisetriggercookeddata.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\mask_ggj26\\intermediate\\build\\win64\\x64\\racoongame\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\wwiseresourceloader\\definitions.wwiseresourceloader.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseresourceloader\\public\\wwise\\cookeddata\\wwisetriggercookeddata.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwisesoundengine\\source\\wwiselowlevelutils\\public\\wwise\\wwiseunrealversion.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwiseresourceloader\\uht\\wwisetriggercookeddata.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

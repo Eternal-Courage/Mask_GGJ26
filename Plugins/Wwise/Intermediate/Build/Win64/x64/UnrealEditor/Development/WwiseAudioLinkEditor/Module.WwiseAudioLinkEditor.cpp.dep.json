@@ -1,0 +1,39 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wwiseaudiolinkeditor\\module.wwiseaudiolinkeditor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\mask_ggj26\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wwiseaudiolinkeditor\\definitions.wwiseaudiolinkeditor.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\unrealeditor\\inc\\wwiseaudiolinkeditor\\uht\\wwiseaudiolinkeditor.init.gen.cpp",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\unrealeditor\\inc\\wwiseaudiolinkeditor\\uht\\wwiseaudiolinksettingsfactory.gen.cpp",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseaudiolinkeditor\\private\\wwise\\audiolink\\wwiseaudiolinksettingsfactory.h",
+            "g:\\ue_5.4\\engine\\source\\developer\\assettools\\public\\assettypeactions_base.h",
+            "g:\\ue_5.4\\engine\\source\\developer\\assettools\\public\\iassettools.h",
+            "g:\\ue_5.4\\engine\\source\\developer\\assettools\\public\\assettypecategories.h",
+            "g:\\ue_5.4\\engine\\source\\developer\\assettools\\public\\iassettypeactions.h",
+            "g:\\ue_5.4\\engine\\source\\developer\\merge\\public\\merge.h",
+            "g:\\ue_5.4\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailmanager.h",
+            "g:\\ue_5.4\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailrenderer.h",
+            "g:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailrenderer.generated.h",
+            "g:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailmanager.generated.h",
+            "g:\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\automatedassetimportdata.h",
+            "g:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\automatedassetimportdata.generated.h",
+            "g:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assettools\\uht\\iassettools.generated.h",
+            "g:\\ue_5.4\\engine\\source\\developer\\assettools\\public\\assettoolsmodule.h",
+            "g:\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\toolkits\\simpleasseteditor.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\unrealeditor\\inc\\wwiseaudiolinkeditor\\uht\\wwiseaudiolinksettingsfactory.generated.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseaudiolinkeditor\\private\\wwise\\audiolink\\wwiseaudiolinksettingsfactory.cpp",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseaudiolinkruntime\\public\\wwise\\audiolink\\wwiseaudiolinksettings.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\misc\\packageaccesstracking.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\intermediate\\build\\win64\\unrealeditor\\inc\\wwiseaudiolinkruntime\\uht\\wwiseaudiolinksettings.generated.h",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseaudiolinkeditor\\private\\wwise\\wwiseaudiolinkeditormodule.cpp",
+            "d:\\github\\mask_ggj26\\plugins\\wwise\\source\\wwiseaudiolinkeditor\\public\\wwise\\wwiseaudiolinkeditormodule.h",
+            "g:\\ue_5.4\\engine\\source\\developer\\settings\\public\\isettingsmodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
