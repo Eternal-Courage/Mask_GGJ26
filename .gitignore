@@ -46,7 +46,7 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-!Plugins/**/Binaries/*
+Plugins/**/Binaries/*
 
 # Builds
 Build/*
@@ -67,7 +67,12 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
-!Plugins/**/Intermediate/*
+Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Wwise 2024.1.1.8691 -> Unreal Engine 5.4.4 integration; plugins moved to separate remote
+Plugins/Wwise/*
+Plugins/WwiseNiagara/*
+Plugins/WwiseSoundEngine/*
